@@ -1,2 +1,2 @@
 # Woodera-Project
-Transylvanian woodworking.
+Crafted in Transylvania.
