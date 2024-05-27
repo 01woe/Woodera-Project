@@ -1,2 +1,2 @@
 # Woodera-Project
-My project
+Transylvanian woodworking.
